@@ -40,7 +40,7 @@ Select `ProductID`, `Name`, and `ListPrice` from the `Production.Product` table 
 
 ### 5. Filtering with Multiple Conditions
 
-Retrieve all employees from the `HumanResources.Employee` table who were hired after `'2015-01-01'` and whose `SalariedFlag` is `1`.
+Retrieve all employees from the `HumanResources.Employee` table who were hired after `'2009-01-01'` and whose `SalariedFlag` is `1`.
 
 ```sql
 -- Your query here
@@ -56,7 +56,7 @@ Select all unique `JobTitle` values from the `HumanResources.Employee` table.
 
 ### 7. Using LIKE for Pattern Matching
 
-Find all customers from the `Sales.Customer` table where the `CompanyName` starts with `'A'`.
+Find all persons from the `Person.Person` table where the `LastName` starts with `A`.
 
 ```sql
 -- Your query here
