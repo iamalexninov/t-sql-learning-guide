@@ -86,11 +86,4 @@ Select `SalesOrderID`, `OrderDate`, and `TotalDue` from the `Sales.SalesOrderHea
 -- Your query here
 ```
 
-## **Instructions**
-
-1. Open SQL Server Management Studio (SSMS).
-2. Connect to your SQL Server instance.
-3. Make sure the `AdventureWorks2022` database is available.
-4. Copy each query, execute it, and analyze the results.
-
-Happy Learning! 🚀
+## **End**
